@@ -1,0 +1,31 @@
+D:\VB.NET Programs\Patient Record\bin\Debug\Patient Record.exe.config
+D:\VB.NET Programs\Patient Record\bin\Debug\Patient Record.exe
+D:\VB.NET Programs\Patient Record\bin\Debug\Patient Record.pdb
+D:\VB.NET Programs\Patient Record\bin\Debug\Patient Record.xml
+D:\VB.NET Programs\Patient Record\bin\Debug\Guna.UI2.dll
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.vbproj.AssemblyReference.cache
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient_Record.add_Patient.resources
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient_Record.Form1.resources
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient_Record.main_Form.resources
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient_Record.Resources.resources
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.vbproj.GenerateResource.cache
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.vbproj.CoreCompileInputs.cache
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.vbproj.CopyComplete
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.exe
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.xml
+D:\VB.NET Programs\Patient Record\obj\Debug\Patient Record.pdb
+D:\Github\cardinginfosys\bin\Debug\Patient Record.exe.config
+D:\Github\cardinginfosys\bin\Debug\Patient Record.exe
+D:\Github\cardinginfosys\bin\Debug\Patient Record.pdb
+D:\Github\cardinginfosys\bin\Debug\Patient Record.xml
+D:\Github\cardinginfosys\obj\Debug\Patient Record.vbproj.AssemblyReference.cache
+D:\Github\cardinginfosys\obj\Debug\Patient_Record.add_Patient.resources
+D:\Github\cardinginfosys\obj\Debug\Patient_Record.Form1.resources
+D:\Github\cardinginfosys\obj\Debug\Patient_Record.main_Form.resources
+D:\Github\cardinginfosys\obj\Debug\Patient_Record.Resources.resources
+D:\Github\cardinginfosys\obj\Debug\Patient Record.vbproj.GenerateResource.cache
+D:\Github\cardinginfosys\obj\Debug\Patient Record.vbproj.CoreCompileInputs.cache
+D:\Github\cardinginfosys\obj\Debug\Patient Record.vbproj.CopyComplete
+D:\Github\cardinginfosys\obj\Debug\Patient Record.exe
+D:\Github\cardinginfosys\obj\Debug\Patient Record.xml
+D:\Github\cardinginfosys\obj\Debug\Patient Record.pdb
