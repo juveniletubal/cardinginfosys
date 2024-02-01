@@ -5,7 +5,7 @@ pasensya kayo sa system nani kay wa jud nako ni g focusan hahahha kay pahumanay 
 
 guide:
 
-1. restore the database in sql server name 'hrrs_db.bak'
+1. restore database in sql server folder name database then 'hrrs_db.bak'
 2. copy your server name, username, password or sql server then
 3. open DBConnection.vb in any text editor
 4. in ConnectionString = "Data Source=your sql server name;Initial Catalog=your database name;User ID=your username;Password=you rpassword"
