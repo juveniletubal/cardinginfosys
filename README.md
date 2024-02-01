@@ -8,9 +8,10 @@ guide:
 1. restore the database in sql server name 'hrrs_db.bak'
 2. copy your server name, username, password or sql server then
 3. open DBConnection.vb in any text editor
-in ConnectionString = "Data Source=your sql server name;Initial Catalog=your database name;User ID=your username;Password=you rpassword"
-then save and exit
-to run locate the folder 'bin/Debug/Patient Record.exe
+4. in ConnectionString = "Data Source=your sql server name;Initial Catalog=your database name;User ID=your username;Password=you rpassword"
+5. then save and exit
+6. to run locate the folder 'bin/Debug/Patient Record.exe
+
 Contaca lang mi if ever naa kay pangutana
 
 Thankyou.... Byeeerrrsssss...
